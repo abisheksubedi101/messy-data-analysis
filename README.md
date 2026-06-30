@@ -32,6 +32,7 @@ The company wants to understand:
 - SQL
 - Microsoft Excel
 - Power BI
+- python for cleaning
 
 ---
 
@@ -50,7 +51,6 @@ The company wants to understand:
 ---
 
 ## Dashboard
-(Add screenshots here)
 
 ![Dashboard](<img width="1317" height="763" alt="image" src="https://github.com/user-attachments/assets/05286592-a282-4d7c-8e1a-e40770a7a0b6" />
 )
