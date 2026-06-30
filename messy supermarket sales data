@@ -1,0 +1,353 @@
+Sales_ID	Date	Custumer_Name	Product	Category	Quantity	Unit_Price	Total	Payment_Method
+S1	4th February 2026	Miriam	Cabbage	Vegetable	5	3 USD	15USD	CASH
+S2	4th February 2026	Miriam	champagne	BEVERAGES	3		45 USD	CASH
+S3	4/2/2026	Miriam		FRUITS	1O	$5 	150$	CASH
+S4	4/2/2026		GRAPES	FRUITS	3	4	12	CASH
+S5	4/2/2026	Miriam	APPLES		13	3	39USD	CASH
+S6	4/2/2026	Miriam	CHICKEN	MEAT$SEAFOOD	1		52.45	CASH
+S7	4/2/2026		PEPSI	BEVERAGES	3	4	12	CASH
+S7	4/2/2026		PEPSI	BEVERAGES	3	4	12	CASH
+S8	4/2/2026	taylor Sams	coca cola	BEVERAGES	3	5	15	cash
+S9		bush smiths	beer		10	2	20$	credit card
+S10	4/2/2026	bush smiths	beer	alcholic beverage	10	$2 	20$	credit card
+S11	4/2/2026		Shampoo	personal care	1	23	234	cash
+S12	4/2/2026	Mills Arthur		bakery	4	2	8	cash
+S13		Xander wax	pepsi	BEVERAGES				
+S14	4/2/2026	Andy R	BREAD	BAKERY	3	5	15	
+S15	4/2/2026	Andy R	BREAD	BAKERY	3	5	15	
+S16	4/2/2026	ANThur Jasper	book	stationary	50	2		payPAL
+S17	4th FEB 2026	Samantha	water bottle		8	1	8	
+S18	4th February 2026	Robert	Deodorant	personal care	2	usd10	20	cash
+S19	4th February 2026	Smart doris	milk	diary	12	1	12	VENMO
+S20		SmaRT DORIS	FLOUR	GROCERIES	10	1	12	VENMO
+S21	4th February 2026	SUAGR	GROCERIES	GROCERIES	2	3		VENMO
+S22	4th February 2026	SMART DORIS	EGGS	diary	4	4	16	VENMO
+S22	4th February 2026	SMART DORIS	EGGS	diary	4	4	16	VENMO
+S23		SMART DORIS	EGGS	diary		4	16	VENMO
+S24	4th February 2026	SMART DORIS	EGGS	diary	4	4DollaRs	16	VENMO
+S25	4th February 2026	ELLIE		fruits	1	4	$4 	cash
+S26	4th February 2026	ELLIE	cake	4	2	$8 	16	cash
+S27	4th February 2026	ELLIE	book	stationary	4	2	9	cash
+S28	4-Feb-26	Smith Smiths	yogut		4	4		
+S29	5-Feb-26	KELSEY SMITHS	PEPSI		2	23	46	
+S30	5-Feb-26	Elias 	wine					venmo
+S31	5/2/2026	KELSEY SMITHS	brEaD		3	0	0 USD	CREDIT CARD
+S32	5/2/2026	Kelsey Smiths	coffee	BEVERAGES	10	6 USD	120USD	venmo
+S33	5/2/2026	kelsey smiths	steak	groceries	1O	23	233	google pay
+S34	5/2/2026	ETHAN	 steak	personal care	15	10		
+S35	5/2/2026		STEAK	personal care	2	3.25	6.5 USD	csash
+S36	5/2/2026	 KAYLA MADDOX	BEER		10	$1 	10	bank Transfer
+S37	5/2/2026	kayla maddox	redbull	ALCHOLIC BEVERAGE		5	$5 	VENMO
+S38	5/2/2026		CHAMPAGNE	Fruits	3	4	$12 	PAYPAL
+S39	6-Feb-26	Smith	pasta	FROZEN	20	8	159 USD	PAYPAL
+S40	6-Feb-26	BAILEY MERCER	beer	frozen	2	10	$18 	
+S41	6-Feb-26		hAm		1O	2	20	paypal
+S42	6-Feb-26		SAUsAGe	Personal Care	10	$3.25 	22.5	
+S43	6-Feb-26		beer	dairy	1	$5 		CASH
+S43	6-Feb-26		beer	dairy	1	$5 		CASH
+S44	6-Feb-26	garrett	sausage	snacks	3	0	$0 	
+S45	6-Feb-26	Doris	tuna	FROZEN	15	usd10	152USD	google pay
+S46	6-Feb-26	NATHAN SLOAN	 COCA COLA	BAKERY		0	0 USD	payPAL
+S47	6-Feb-26		SOAP			$4 	4$	venmo
+S48	6-Feb-26	Mgan	water bottle	STATIONARY	O	1		apple pay
+S49	6-Feb-26		DEODORANT	Personal Care	5	4DollaRs	20	VENMO
+S50	6-Feb-26	MIRIAM	Cheese	Diary		5	5	PAYPAL
+S51	6-Feb-26	MIRIAM	MILK	FROZEN	1		101USD	
+S52	6-Feb-26	Shelby Briggs	Cookies		1	3.25	3.25USD	google pay
+S53	6-Feb-26	Taylor Mercer	PEPSI 	meat$seafood	1O		11USD	cash
+S54	2/7/2026	Grace	 HAM	STATIONARY	12		2	cash
+S55	2/7/2026	DORIS WADE			3	5	15	cah
+S56	2/7/2026	 Ashley ax	wine	FruIts	4	4.5DollaRs		cash
+S57	2/7/2026	kayla	cabbage	stationary	8		8USD	CASH
+S58	2/7/2026	MILLS	wine	Personal Care	3	1	3USD	debit card
+S59	2/7/2026		shampoo	GROCERIES	4	1.5		Cash
+S60	2/7/2026		steak	beverages	3	usd2	$6 	
+S61	2/7/2026	 nathan becker	shAmPoO	VEGETABLE	50	$4.50 	225	google pay
+S62	2/7/2026				20		$18 	cah
+S63	2/7/2026	WYATT	TEA	VEGETABLE	6	4	27	bank TRANSFER
+S64	2/7/2026	wyatt		PERSONAL CARE	8	1	8$	
+S65	2/7/2026	XANDER	flour		4	1		paypal
+S66	2/7/2026		CEREAL 	Vegetables	6	3.25		apple pay
+S67		 GARETT	BANANAS	alcholic beverage	1O	8	80	cah
+S68		AYLA	SUGAR	STATIONERY	4	$2 	8	apple pay
+S69	2/7/2026	AYLA	sprite		2	6	12	apple pay
+S70	2/7/2026	XANDER WHITMAN	CHICKEN		20	0	0	csash
+S71	2/7/2026	TYLER	EGGS	HOUSEHOLD		4	4	BANK TRANSFER
+S72	2/7/2026	Olivia Cross	Apples	fruits	4	$1 	$4 	Credit Card
+S73	2/7/2026	OLIVIA CROSS	Grapes			8 USD	13	debit card
+S74	2/7/2026	OLIVIA CROSS		DAIRY	12	12	144USD	VENMO
+S75	2/7/2026	PAIGE WHITMAN	 sPRItE	meat & seafood	3	$2 	6	Credit Card
+S76	2/7/2026	PAIGE WHITMAN		VEGETABLES	3	4	$17 	apple pay
+S77	2/7/2026	LOGAN ARTHUR	FANTA	meat$seafood	5	5	25 USD	CASH
+S78	2/7/2026		tuna	beverages	2		7	cash
+S79	2/7/2026	Cody Tate	Bacon	MEAT$SEAFOOD	3	$4 	12USD	payPAL
+S80	2/7/2026	Brandon Briggs	BUTTER 		12	$5 	60$	bank transfer
+S81	2/7/2026	ARTHUR	ChEEsE	groceries	6	1 USD	6$	cash
+S81	2/7/2026	ARTHUR	ChEEsE	groceries	6	1 USD	6$	cash
+S82	2/7/2026		BATTERIES 	ALCHOLIC BEVERAGE	5	4DollaRs	10	Credit Card
+S83	2/7/2026	Doris Vaughn		meaT & SEAfOod	15	3		CASH
+S84	2/7/2026	Oliia	toothpaste	BEVERAGES	4	5	20	cash
+S85	2/7/2026	Hannh Wax	book	VegetaBlES	5	10		Cash
+Sr1	2/7/2026	TAYLOR ARTHUR			1O			VENMO
+Sr2	2/7/2026	TAYLOR ARTHUR	POTATOES	BAKERY	10		10	cah
+Sr3	2/7/2026	Robert Arthur	PASTA	meat & seafood	50	1		credit card
+Sr4	2/7/2026	lauREn	Steak	household	3	4	24	bank transfer
+Sr5	2/7/2026	lauREn	 pasta	fruits	5	1.5	$7.50 	bank transfer
+Sr6	2/7/2026	laUren	BANANAS	GRoCERieS	6	8 USD	$43 	paypal
+Sr7	2/7/2026	Ashley			1O	12	120 USD	
+Sr8	2/7/2026	Chloe Lund	pencil	household	20	5		apple pay
+Sr9	2/7/2026	Brandon 	PENCIL	vegetable	1	4 USD	4	
+Sr10	2/7/2026	OLIVIA BRIGGS	Tuna	MEAT$SEAFOOD	4	$10 		cah
+Sr11	2/7/2026	BRANDON ARTHUR	ham		1O	4	38$	APPLE PAY
+Sr12	2/7/2026	CALEB WHITMAN	cheese	FROZEN	4	6	24	bank Transfer
+Sr13	2/7/2026	DEREK	fANTa	DIARY	3	1.5 USD	4.5	bank transfer
+Sr14	2/7/2026	 smith	BEER	personal care	2	4	8USD	bank TRANSFER
+Sr15		Jordan Conway	chicken	veGetAbLe	8	3.25	28 USD	pay pal
+Sr16		kayla	steak	ALCHOLIC BEVERAGE	1O	10	100USD	CASH
+Sr17			Salmon	dairy	20	$3 	55	VENMO
+Sr18		Ashley Dalton	batteries	SNACKS		23	46$	csash
+Sr19	2/7/2026	Ashley Dalton	CEREAL	Personal Care	1O	2 USD		payPAL
+Sr20	2/7/2026	ELIAS LUND	PepsI			2DollaRs	2	bank Transfer
+Sr21	2/7/2026		coffee		10	3	30	BANK TRANSFER
+Sr22	2/7/2026	Bailey Whitman	fanta	diary	4	5	18	cash
+Sr23	2/7/2026	JORDAN JASPER	PAsta	Beverages	4	1	6	BANK TRANSFER
+Sr24	2/7/2026	nathan wade	DetErGeNT		1O	$1 	10	paypal
+Sr25	2/7/2026	SIERRA	FANTA 				1 USD	Cash
+Sr26	2/7/2026	Samantha		snacks	10	4 USD	40USD	CASH
+Sr27	2/7/2026	Grace Boone	DEODORANT	meat$seafood	8	3	24	paypal
+Sr28	2/7/2026	Grace Boone	fanta	personal care	12	2	24 USD	Credit Card
+Sr29	2/7/2026	grace boone	WaTER bOTTLe		1O	4	39	paypal
+Sr30	2/7/2026	CHLOE LUND	BREAD	VegETABLEs	3	2	6	
+Sr31	2/7/2026	CHLOE LUND	NApKiNs	FROZEN	2	5 USD	10USD	BANK TRANSFER
+Sr32	2/7/2026	ChLoE luNd	COOKIES		1	$1.50 	$101.50 	
+Sr33	2/7/2026	CHLOE LUND	champagne 	GROCERIES	4	2DollaRs		
+Sr34	2/7/2026	Shelby Briggs	FLOUR	BAKERY	12	$3.25 	41$	venmo
+Sr34	2/7/2026	Shelby Briggs	FLOUR	BAKERY	12	$3.25 	41$	venmo
+Sr35	2/7/2026	Jordan		MEAT & SEAFOOD	8		$8 	PAYPAL
+Sr36	2/7/2026		donuts		1		2	cash
+Sr37	2/7/2026	nathan sams	 beer	GROCERIES	20			APPLE PAY
+Sr38	2/7/2026	andy rAmsEY	tea		6	5	20USD	
+Sr39	2/7/2026	mills briggs	NOTEBOOK	MEAT & SEAFOOD	4	$3.25 	13	cah
+Sr40	2/7/2026	mills briggs	SHAMPOO	DaiRy	12	usd2.5	30	cah
+D1	8.2.26	ethan	CHEESE	Vegetables	6	12	73	bank transfer
+D2	8.2.26	Sierra Briggs		beverages	2	0	0	debit card
+D2	8.2.26	Sierra Briggs		beverages	2	0	0	debit card
+D3	8.2.26	shelby	ChickeN		3	1	3	cash
+D4	8.2.26	Shelby			5	2	15	cah
+D5	8.2.26	shelby	bread		2			debit card
+D6	8.2.26	Mills	Book 	HOUSEHOLD	1		1	pay pal
+D7	8.2.26	mills	EGGS	bakery	5	5	$25 	BANK TRANSFER
+D8	8.2.26		Crackers	BAKERY	1O	10		apple pay
+D9	8.2.26	samantha	PASTA	Vegetables	10	1.5		PAYPAL
+D10	8.2.26		Icecream	alcholic beverage	20	5	100	Debit Card
+D11	8.2.26		BEER	BAKERY	10		10	paypal
+D12	8.2.26	caleb lund		BAKERY	2	$3 	6$	csash
+D13	8.2.26	caleb lund	redbull		4	0	0	
+D14	8.2.26	caleb lund	NAPKINS	household	8	2	6	cash
+D15	8.2.26	Bush		Bakery	2	12	24	cah
+D16	8.2.26	dustin becker		DAIRY	4	4		Cash
+D17	8.2.26	DUSTIN BECKER	shampoo	DIARY	10	$5 	$50 	credit card
+D18	8.2.26	Ellie	MILK	STATIONARY	2	2.5		BANK TRANSFER
+D19	8.2.26	XANDER SMITHS	FROZEN PIZZA	personal care	8	5	$40 	Credit Card
+D20	8.2.26	XANDER SMITHS		PERSONAL CARE	3		103$	VENMO
+D20	8.2.26	XANDER SMITHS		PERSONAL CARE	3		103$	VENMO
+D21	8.2.26	xander smiths	Bananas	BEVERAGES	12	4	49	Credit Card
+D22	8.2.26	Xander Smiths	toothpaste	beverages	1	0	0	CASH
+D22	8.2.26	Xander Smiths	toothpaste	beverages	1	0	0	CASH
+D23	8.2.26	Garrett Sams		MeaT & SeAfoOd	8	usd3	24USD	CASH
+D24	8.2.26	GARRETT SAMS	TOOTHPASTE	DaiRY	2	5	10	CASH
+D25	8.2.26	GARRETT SAMS	POTATOES	houSehold	20	10	205	CASH
+D26	8.2.26		APPLES		20	0	0	CASH
+D27	8.2.26	LOGAN	SPRITE	snacks	1O	2DollaRs	20USD	CASH
+D28		Logan Becer	CHICKEN	alcholic beverage	4	5		CASH
+D29		Grace Conway 	notebook	beverages	2	3.25 USD	6.5USD	CASH
+D30			tuna	VEGETABLES	1	1	$4 	CASH
+D31		joRdan rhODes	frozen pizza	Dairy	6	4.5	27	CASH
+D32	8.2.26		pencil	alcholic beverage	10	5	50$	CASH
+D33	8.2.26	ANDy	ONIONS	Vegetable	1	10	20	CASH
+D34	8.2.26		SHAMPOO	household		1.5		CASH
+D35	8.2.26	Cody Wae	Apples		12	2.5		CASH
+D36	8.2.26	CODY				2DollaRs	2	CASH
+D37	8.2.26	austin rhodes	Donuts	BeVErAgeS	2	$3 	$4 	CASH
+D38	8.2.26	Elias	Crackers	meat & seafood	1		2	CASH
+D39	8.2.26	jake rhodes	CHAMPAGNE	diary	4	4.5 USD	19	CASH
+D40	8.2.26		pepsi	bakery	3	4	$17 	CASH
+Qh1	9/2/2026	Ashley	Tomatoes		2	10	$19 	CASH
+Qh2	9/2/2026	robErT briGGs	fanta	stationary	2	$3 	$6 	CASH
+Qh3	9/2/2026		butter		6	5DollaRs	30	CASH
+Qh4	9/2/2026	TRAVIS HODGE 	cake	Stationary		1		CASH
+Qh5	9/2/2026	KeLsey vAncE	NOTEBOOK	diary	50	8	398USD	CASH
+Qh6	9/2/2026	HANNAH BRIGGS	Napkins	beverages	15			CASH
+Qh7	9/2/2026	HANNAH BRIGGS		SNAckS	2			CASH
+Qh8	9/2/2026	hannah briggs	salt	VEgEtaBLE	2	12	24	CASH
+Qh9	9/2/2026	HANNAH BRIGGS	GRAPES	Stationery	2	4	8USD	Cash
+Qh10	9/2/2026		orange juice	VEGETABLE	15	4.5 USD		Credit Card
+Qh11	9/2/2026	SPENCER	rice		1O	2	25USD	venmo
+Qh12	9/2/2026	dustin ramsey	BREAD	bakery	6	5	30USD	apple pay
+Qh13	9/2/2026	brandon	PeNciL	DAIRY	1	usd2.5	2.5	google pay
+Qh14	9/2/2026		Water Bottle		1O	$3 	$30 	csash
+Qh15	2026/feb/10	Lauren			15	5	75	Credit Card
+Qh16	2026/feb/10		yogut	Dairy	3	4DollaRs		cah
+Qh17	2026/feb/10	DUSTIN	beer 	stationary	5	1	5USD	APPLE PAY
+Qh18	2026/feb/10	aUStin			10	usd3	$32 	cash
+Qh19	2026/feb/10	XandER RaMsEY	fanta	GROCERIES	10	1.5	115	Cash
+Qh20	2026/feb/10	XANDER raMsEy	DETERGENT		15	$3.25 	97.5	csash
+Qh21	2026/feb/10		Bacon	fRuitS	3		3$	
+Qh22	2026/feb/10		notebook	STATIONARY	2	$4.50 	9USD	Cash
+Qh23	2026/feb/10		redbull	mEaT & SEafOOd	2		2	PAYPAL
+Qh24	2026/feb/10		egGs	Vegetables	1O	6	60$	bank Transfer
+Qh25	2026-feb-11			personal care	10	2DollaRs	$20 	
+Qh26	2026-feb-11	garrett	CHEESE	personal care	12	6	$72 	CREDIT CARD
+Qh27	2026-feb-11	Elias Arthur	coca cola	BAKERY	15		15	csash
+Qh28	2026-feb-11	Nathan	champagne 	dairy	2	$2.50 	6USD	BANK TRANSFER
+Qh29	2026-feb-11	Elias	POtaToEs 	frozen	2	1 USD	3	apple pay
+Qh30	2026-feb-11	DUSTIN DORIS	ORANGE JUICE	Bakery	10	2.5	27USD	bank transfer
+Qh31	2026-feb-11	spencer	Ham	VEGETABLE	8	usd8	74USD	cash
+Qh32	12 FEBUARY, 2026	Samantha	beer	vegetables	3	3	9	
+Qh33	12 FEBUARY, 2026	traViS waX	Grapes	ALCHOLIC BEVERAGE	4	usd3.25	8$	Cash
+Qh34	12 FEBUARY, 2026	XANDER	TOOTHPASTE	DaIRY	4	usd4	16	CREDIT CARD
+Qh35	12 FEBUARY, 2026		soap	FruIts	6	$5 	35	bank Transfer
+Qh36	12 FEBUARY, 2026	smith arthur	toothpaste	GROCERIES	5	1	5USD	CASH
+Qh37	12 FEBUARY, 2026	wyaTT	champagne			4.5		venmo
+Qh38	12 FEBUARY, 2026	Robert	pencil 	snacks	15			BANK TRANSFER
+Qh39	12 FEBUARY, 2026	Andy Vance	rice	STATIONARY	2		2 USD	cah
+Qh40	12 FEBUARY, 2026	xaNder	BEeR	Diary	1O		10USD	
+Qh41	12 FEBUARY, 2026		FLOUR	household	10		$5 	CREDIT CARD
+Qh42	12 FEBUARY, 2026	Grace Hodge	 spritE	Dairy		2.5 USD	2.5	bank Transfer
+Qh43	12 FEBUARY, 2026	Grace Hodge	PASTA	MEAT$SEAFOOD	5		5	
+Qh44				STATIONERY	3	2	6USD	APPLE PAY
+Qh45		bailey frost	ONIONS		50	usd6	300USD	VENMO
+Qh46		chloe cross	rIce	Personal Care	2	usd4	9 USD	
+Qr1		chloe cross	Salt	BAKERY	1O	4	40	
+Qr2		CHLOE CROSS		FRUITS			-4	Debit Card
+Qr3		Garrett Doris	icecream	Vegetables		$4 	4$	paypal
+Qr4				household	1O	1DollaRs	$10 	
+Qr5			shampoo	BAKERY	8	2	19	
+Qr6		Derek			5		10	apple pay
+Qr7			water bottle		20	6		paypal
+Qr8	12 FE, 2026	DEREK	ONIONS	beverages		$6 	6USD	debit card
+Qr9	12 FE, 2026	Miriam Whitman 	potatoes	Personal Care		6	6	PAYPAL
+Qr10	12 FEBUARY, 2026		 ICECREAM		10	6	60	
+Qr11	12 FEBUARY, 2026	oLivIa pRUiTT	EGGS	GrOCeRIes		1 USD	6	BANK TRANSFER
+Qr12	13 02 26	Olivia Pruitt	frozen pizza	beverages	5		3 USD	pay pal
+Qr13		oLivIa pRUiTT	sausage	snaCKs	O	5	$0 	cash
+Qr14	13 02 26	MarissaWade	water bottle	PERSONAL CARE	12	4DollaRs	48 USD	PAYPAL
+Qr15	13 02 26	SAMANTHA		VeGETAbLEs	3	23	69$	Cash
+Qr16	13 02 26	SHELBY	 CHAMPAGNE		1O	5	40USD	paypal
+Qr17	13 02 26		LETTUCE	groceries	4		$4 	venmo
+Qr18	13 02 26	Smith Sloan 	YOGUT	FROZEN	O	2.5	0 USD	CASH
+Qr19	13 02 26	SMITH SLOAN	coca cola	snacks	1	1 USD	1	CREDIT CARD
+Qr20	13 02 26	SMITH SLOAN	PENCIL		5	3.25		Cash
+Qr21		SMITH SLOAN	eggs	BEVERAGES	8	4.5	31	Cash
+Qr22	13 02 26	jake	potatoes	STATIONERY	1O	$3 	30USD	bank Transfer
+Qr23	13 02 26		redbull	FRUITS	1		1	venmo
+Qr24	13 02 26		FANTA	Personal Care	20	$2 	40	PAYPAL
+Qr25	13 02 26	Tyler	Steak	DIARY	2	usd6	12	cash
+Qr26	13 02 26	jordan	onions	meat & seafood	5		5$	BANK TRANSFER
+Qr27	13 02 26	jordan	batteries	personal care	12	$5 	60	CREDIT CARD
+Qr28	14 O2 2026	Robert	BAcon		2		2USD	bank Transfer
+Qr29	14 O2 2026		Deodorant	frozen	50	8	400	
+Qr30	14 O2 2026	NATHAN 	milk	Meat$Seafood	15			CREDIT CARD
+Qr31	14 O2 2026	LOGAN	frozen pizza	PERSONAL CARE	3	$3.25 	9.75$	CREDIT CARD
+Qr32		LOGAN	BANANAS	BEVERAGES	1O	4	40USD	CASH
+Qr33		logan	CAKE		1O	6		bank transfer
+Qr34	14 O2 2026	eLias hOlt			2	3	6	paypal
+Qr35			pasta		1O	$6 	60	BANK TRANSFER
+Qr36		OliVIA	crackers		1		1	csash
+Qr37	14 O2 2026	ashLEy doRis	ham	vegetable	50		50	CASH
+Qr38	14 O2 2026	ashley doris	Butter		50	$10 	498USD	cash
+Qr39	14 O2 2026	RtHUr JAsper	napkins		3	usd12	36 USD	
+Qr40	14 O2 2026	Rthur Jasper	BOOK	beverages	20	$23 	920$	Credit Card
+Qr41	2026-O2-15	RtHUr JAsper	bananas	Bakery		3.25	3.25	apple pay
+Qr42	2026-O2-15	Olivia Rhodes	milk	Household	4	6 USD	$24 	Cash
+Qr43	2026-O2-15	BUSH	SOAP	PERSONAL CARE	10	2.5	30	
+Qr44	2026-O2-15	HANNAH	sausage	groceries	50	1		cash
+Qr45	2026-O2-15	robert	TOOTHPASTE	BEVERAGES	2	6	12	cah
+Qr46	2026-O2-15		rice	DIARY	5	2	10 USD	
+Qr47	2026-O2-15	MARISSA	DEODORANT	dairy	50	5		BANK TRANSFER
+Qr48	16/02/2026	arthur pruitt	RICE	meAt & sEaFoOd			11	PAYPAL
+Qr49	16/02/2026	Arthur	pepsi	VegEtabLE		3.25	3.25	
+Qr50	16/02/2026	aRthuR	champagne	STATiOnERY	10	23	230	
+Qr51	16/02/2026		EGGS	MEAT & SEAFOOD		0	0	
+Qr52	16/02/2026	Bush Sloan	rice	snacks	3	6		CREDIT CARD
+Qr53	16/02/2026	KELSEY RAMSEY 	coca cola		3	$2.50 	6.5	
+Qr54	16/02/2026	tyler pruitt	DETERGENT			5		debit card
+Qr55	17/O2/26	Ethan Rhodes	 bread	Vegetable	1	$2 	102	CREDIT CARD
+Qr56		Megan Doris 	EGGS	MEAT$SEAFOOD	1	$8 	8	bank transfer
+Qr57		Megan Doris	batteries	ALChoLIc BeVeRage	12	0	0 USD	paypal
+Qr58		Megan Doris	crackers	stationary	4	usd1		cash
+Qr59	17/O2/26	megan doris	pencil	vegetables		3	8USD	
+Qr60	17/O2/26	garrett frost	 Wine	BEVERAGES	3	8		Debit Card
+Qr61	17/O2/26	Brandon	beer	Stationery	4	4	21	venmo
+Qr62	17/O2/26		lETTUCe		15	23 USD	345	debit card
+Qr63	17/O2/26	Miriam Smiths	BANANAS	GROCERIES	2	4		CREDIT CARD
+Qr64	17/O2/26	miriam smiths	sausage	meat & seafood	50		$50 	venmo
+Qr65	17/O2/26	mIriam smItHS		diary	20	5 USD	100	cash
+Qr66	17/O2/26	MIRIAM SMITHS	Onions	frozen	1O	3 USD	130	venmo
+Qr67	8/2/2026	OLivia RAmseY	 Coca Cola	snacks	3	$3.25 	4.75	bank transfer
+Qr68	8/2/2026		onions		1O		8	pay pal
+Qr69	8/2/2026	Hannah	HAM 	dairy	12	2.5DollaRs	30	payPAL
+Qr70	8/2/2026	CHLOE 	butter	Stationery	8	3DollaRs	24$	Credit Card
+Qr71	8/2/2026	chloe	sausage	diary	1O	2	$20 	CASH
+Qr72	8/2/2026	CHLOE	baCoN	Personal Care	15	2 USD		venmo
+Qr73	8/2/2026		CHEESE	STATIONARY	O	4.5		paypal
+Qr74	18/02/2026	kElSeY	CHICKEN	gRocERIES	5	4DollaRs	20USD	CASH
+Qr75	18/02/2026		toothpaste	stationary	12	$12 	144 USD	Debit Card
+Qr76	19/FEBRARY/2026	elias mercer	tuna	snacks		12		cah
+Qr77	19/FEBRARY/2026		sprite	STATIONARY	1O	10	100$	
+Qr77	19/FEBRARY/2026		sprite	STATIONARY	1O	10	100$	
+Qr78	19/FEBRARY/2026	Tyler Frost		Vegetable	12	12		debit card
+Qr79	19/FEBRARY/2026	Tyler Frost	soap		12	usd1.5		
+Qr80	19/FEBRARY/2026	tyler frost	deodorant	MEAT & SEAFOOD	4	$4 		
+Qr80	19/FEBRARY/2026	tyler frost	deodorant	MEAT & SEAFOOD	4	$4 		
+Qr81	19/FEBRARY/2026	tylEr fRost	HAM		1O		10USD	APPLE PAY
+Qr82	19/FEBRARY/2026	Cody	APPLES		4	5 USD	120$	cah
+Qr83	20/februaru/26	nathan conway	tomatoes	gROCeriEs		$1 	2	apple pay
+Qr84	20/februaru/26	arthur	CEREAL 	Bakery	5	23DollaRs	115USD	venmo
+Qr85	20/februaru/26	Andy Holt	wine	stationery	3	3	9	Credit Card
+O1	21/02/2026	Andy Holt	redbull	FRUITS	1O	10	100	
+O2		Andy Holt	EGGS 	Household		4	4	
+O2		Andy Holt	EGGS 	Household		4	4	
+O3		Shelby Hodge	tuna		6	4	24	credit card
+O4			Frozen Pizza	Personal Care	6	3	18	
+O5	21/02/2026		rice	frozen	O	3		
+O6	21/02/2026	Grace	Eggs	Beverages	15	6		APPLE PAY
+O7	21/02/2026	Ethan Pruitt	CEREAL	BAKERY		4.5	4.5USD	pay pal
+O8	21/02/2026	ETHAN PRUITT	Pencil		8	$10 	80USD	PAYPAL
+O9	21/02/2026	Ethan Pruitt	Coffee	Dairy	10	5	50	
+O10	21/02/2026	Mills	cheese	Stationery	10	2 USD	20$	CREDIT CARD
+O11	21/02/2026	Mills	YOGUT	FROZEN		1DollaRs	1USD	Credit Card
+O12	21/02/2026	mills	PotAtoEs	diary		$5 	5	venmo
+O13	21/02/2026	Elias Wade	Ham	Vegetable		usd1		csash
+O14	21/02/2026	ellie		FRUITS	10	1	10USD	PAYPAL
+O15	21/02/2026	ELLIe	CHICKEN	stationary	O	usd4.5	-5 USD	APPLE PAY
+O16	22.2.26	aRThUR hOLt	sausage	alcholic beverage	50	3 USD	150USD	CASH
+O17	22.2.26	Ethan Pruitt	detergent		12	8	96	credit card
+O17	22.2.26	Ethan Pruitt	detergent		12	8	96	credit card
+O18	22.2.26	ETHAN PRUITT	beer	Personal Care	4	23	92$	google pay
+O19	22.2.26	ETHAN PRUITT	SAUSAGE		3	5	15USD	
+O20	22.2.26	DEREK	ONIONS		1O	5DollaRs	$55 	google pay
+O21	23-Feb-26	rObErt	SALT	Personal Care	4	usd4	16	apple pay
+O22	23-Feb-26	ROBERT	COFFEE	Bakery	15	1.5	22.5 USD	venmo
+O23	23-Feb-26	robert		Personal Care	3	4.5	14.5$	
+O24	23-Feb-26	SmItH	TUNA	dairy	1	usd4	4	
+O25	23-Feb-26	Miriam Briggs	SAUSAGE	beverages	1	5	5USD	bank Transfer
+O26	23-Feb-26	Miriam Briggs	EGGS	DIARY	50	1 USD	50	venmo
+O27	23-Feb-26	MIRIAM BRIGGS	beer		6	usd4.5	27$	debit card
+O28	24-Feb-26		beer	DiAry	15		30$	debit card
+O29	24-Feb-26	 LAUREN MERCER	soap		1	1	1	CASH
+O30	24-Feb-26	NATHAN	Bread 	GROCERIES	1	1	1	cash
+O31	24-Feb-26	ETHAN DORIS	pepsi	HOUSEHOLD	3	$4 		PAYPAL
+O32	25-Feb	ETHAN DORIS	 grapes	stationary	3		3 USD	
+O33	25-Feb	EThaN dOris	Notebook	FROzEN	2	usd8	16$	
+O34	27-Feb	SAMANTHA PRUITT	tuna	diary	50	2 USD	100	
+O35	27-Feb	saMANtHa PruiTt	eggs	HOUSEHOLD	6		6	Cash
+O36	27-Feb	samantha pruitt	beer		20		21	
+O37	27-Feb	SAMANTHA PRUITT	tea	ALCHOLIC BEVERAGE	3	$2.50 	7.5$	apple pay
+O38	27-Feb	Doris	LETTUCE	PERSONAL CARE	20	$4 	80	csash
+O39	28-Feb-26	XANDER REYES	yogut	Beverages	2	1 USD	2	APPLE PAY
+O40	28-Feb-26		potatoes		2	8	16	bank Transfer
+O41	28-Feb-26	TYLER		HOUSEHOLD	4	3.25		credit card
+O42	28-Feb-26	PaIgE BriGGS	sausage	PERSONAL Care	2	1.5	3	Credit Card
+O43	28-Feb-26	TraviS saMS	rice		1O	0	0	payPAL
+O44	28-Feb-26			Fruits	1	usd3.25	13.25	
