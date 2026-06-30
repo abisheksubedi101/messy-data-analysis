@@ -1,0 +1,70 @@
+import pandas as pd
+import numpy as np
+import re
+df=pd.read_csv('messysupermarket_sales(1).csv')
+df
+text_col=['Custumer_Name','Product','Category','Payment_Method']
+for col in text_col:
+    if col in df.columns:
+        df[col]=df[col].astype('string').str.strip().str.title()
+for col in ['Custumer_Name']:
+    if col in df.columns:
+        df[col]=df[col].replace(['nan',''],np.nan).fillna('name')
+for col in['Category','Product','Payment_Method']:
+    if col in df.columns:
+        df[col]=df[col].replace(['nan',''],np.nan).fillna('unknown')
+df['Quantity']=df['Quantity'].astype(str).str.replace(r'[^\d.]','',regex=True)
+df['Quantity']=pd.to_numeric(df['Quantity'],errors='coerce').fillna(0.0)
+df['Quantity']
+for col in['Unit_Price','Total']:
+    if col in df.columns:
+        df[col]=df[col].astype(str).replace(r'[^\d.]','',regex=True)
+        df[col]=pd.to_numeric(df[col],errors='coerce').fillna(0.0)
+df.dropna(subset=['Sales_ID','Custumer_Name'])
+
+def clean_date_string(val):
+
+    if pd.isna(val) or str(val).strip().lower() in ['', 'nan', 'none']:
+        return np.nan
+
+    val = str(val).strip().lower()
+
+    # Remove commas
+    val = val.replace(",", "")
+
+    # Remove ordinal suffixes
+    val = re.sub(r'(\d+)(st|nd|rd|th)', r'\1', val)
+
+    # Correct spelling mistakes
+    corrections = {
+        "febuary": "february",
+        "feburary": "february",
+        "febrary": "february",
+        "febraray": "february",
+        "februaru": "february",
+        "o2": "02"
+    }
+
+    for wrong, correct in corrections.items():
+        val = val.replace(wrong, correct)
+
+    # Replace standalone "fe" with "feb"
+    val = re.sub(r'\bfe\b', 'feb', val)
+
+    # Standardize separators
+    val = re.sub(r"[.\-\s]", "/", val)
+
+    if re.fullmatch(r"\d{1,2}[/-][a-z]+", val):
+        val += "/2026"
+
+    return val
+
+df["Date"] = df["Date"].apply(clean_date_string)
+
+df["Date"] = pd.to_datetime(
+    df["Date"],
+    format="mixed",
+    dayfirst=True,
+    errors="coerce"
+)
+df.to_csv('cleaned_supermarket_sales.csv',index=False)
