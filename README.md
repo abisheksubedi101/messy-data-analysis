@@ -3,6 +3,8 @@
 This project analyzes sales data to identify trends, top-performing products, and regional performance. The goal is to provide insights that can help improve business decisions.
 
 ---
+## Project_Structure and workflow
+1.
 
 ## Business Problem
 The company wants to understand:
