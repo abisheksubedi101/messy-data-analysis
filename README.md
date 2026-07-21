@@ -52,8 +52,7 @@ The company wants to understand:
 
 ## Dashboard
 
-![Dashboard](<img width="1317" height="763" alt="image" src="https://github.com/user-attachments/assets/05286592-a282-4d7c-8e1a-e40770a7a0b6" />
-)
+<img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/650e5ae8-73f0-48ac-92a4-a361e75b60ee" />
 
 ---
 
