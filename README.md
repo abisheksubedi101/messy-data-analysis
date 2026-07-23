@@ -75,3 +75,8 @@ The company wants to understand:
 - Data Visualization
 - Dashboard Design
 - Business Insights
+
+  ---
+
+  ## Key insights
+  -
