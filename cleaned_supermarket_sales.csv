@@ -1,0 +1,353 @@
+Sales_ID,Date,Custumer_Name,Product,Category,Quantity,Unit_Price,Total,Payment_Method
+S1,2026-02-04,Miriam,Cabbage,Vegetable,5.0,3.0,15.0,Cash
+S2,2026-02-04,Miriam,Champagne,Beverages,3.0,0.0,45.0,Cash
+S3,2026-02-04,Miriam,unknown,Fruits,1.0,5.0,150.0,Cash
+S4,2026-02-04,name,Grapes,Fruits,3.0,4.0,12.0,Cash
+S5,2026-02-04,Miriam,Apples,unknown,13.0,3.0,39.0,Cash
+S6,2026-02-04,Miriam,Chicken,Meat$Seafood,1.0,0.0,52.45,Cash
+S7,2026-02-04,name,Pepsi,Beverages,3.0,4.0,12.0,Cash
+S7,2026-02-04,name,Pepsi,Beverages,3.0,4.0,12.0,Cash
+S8,2026-02-04,Taylor Sams,Coca Cola,Beverages,3.0,5.0,15.0,Cash
+S9,,Bush Smiths,Beer,unknown,10.0,2.0,20.0,Credit Card
+S10,2026-02-04,Bush Smiths,Beer,Alcholic Beverage,10.0,2.0,20.0,Credit Card
+S11,2026-02-04,name,Shampoo,Personal Care,1.0,23.0,234.0,Cash
+S12,2026-02-04,Mills Arthur,unknown,Bakery,4.0,2.0,8.0,Cash
+S13,,Xander Wax,Pepsi,Beverages,0.0,0.0,0.0,unknown
+S14,2026-02-04,Andy R,Bread,Bakery,3.0,5.0,15.0,unknown
+S15,2026-02-04,Andy R,Bread,Bakery,3.0,5.0,15.0,unknown
+S16,2026-02-04,Anthur Jasper,Book,Stationary,50.0,2.0,0.0,Paypal
+S17,2026-02-04,Samantha,Water Bottle,unknown,8.0,1.0,8.0,unknown
+S18,2026-02-04,Robert,Deodorant,Personal Care,2.0,10.0,20.0,Cash
+S19,2026-02-04,Smart Doris,Milk,Diary,12.0,1.0,12.0,Venmo
+S20,,Smart Doris,Flour,Groceries,10.0,1.0,12.0,Venmo
+S21,2026-02-04,Suagr,Groceries,Groceries,2.0,3.0,0.0,Venmo
+S22,2026-02-04,Smart Doris,Eggs,Diary,4.0,4.0,16.0,Venmo
+S22,2026-02-04,Smart Doris,Eggs,Diary,4.0,4.0,16.0,Venmo
+S23,,Smart Doris,Eggs,Diary,0.0,4.0,16.0,Venmo
+S24,2026-02-04,Smart Doris,Eggs,Diary,4.0,4.0,16.0,Venmo
+S25,2026-02-04,Ellie,unknown,Fruits,1.0,4.0,4.0,Cash
+S26,2026-02-04,Ellie,Cake,4,2.0,8.0,16.0,Cash
+S27,2026-02-04,Ellie,Book,Stationary,4.0,2.0,9.0,Cash
+S28,2026-02-04,Smith Smiths,Yogut,unknown,4.0,4.0,0.0,unknown
+S29,2026-02-05,Kelsey Smiths,Pepsi,unknown,2.0,23.0,46.0,unknown
+S30,2026-02-05,Elias,Wine,unknown,0.0,0.0,0.0,Venmo
+S31,2026-02-05,Kelsey Smiths,Bread,unknown,3.0,0.0,0.0,Credit Card
+S32,2026-02-05,Kelsey Smiths,Coffee,Beverages,10.0,6.0,120.0,Venmo
+S33,2026-02-05,Kelsey Smiths,Steak,Groceries,1.0,23.0,233.0,Google Pay
+S34,2026-02-05,Ethan,Steak,Personal Care,15.0,10.0,0.0,unknown
+S35,2026-02-05,name,Steak,Personal Care,2.0,3.25,6.5,Csash
+S36,2026-02-05,Kayla Maddox,Beer,unknown,10.0,1.0,10.0,Bank Transfer
+S37,2026-02-05,Kayla Maddox,Redbull,Alcholic Beverage,0.0,5.0,5.0,Venmo
+S38,2026-02-05,name,Champagne,Fruits,3.0,4.0,12.0,Paypal
+S39,2026-02-06,Smith,Pasta,Frozen,20.0,8.0,159.0,Paypal
+S40,2026-02-06,Bailey Mercer,Beer,Frozen,2.0,10.0,18.0,unknown
+S41,2026-02-06,name,Ham,unknown,1.0,2.0,20.0,Paypal
+S42,2026-02-06,name,Sausage,Personal Care,10.0,3.25,22.5,unknown
+S43,2026-02-06,name,Beer,Dairy,1.0,5.0,0.0,Cash
+S43,2026-02-06,name,Beer,Dairy,1.0,5.0,0.0,Cash
+S44,2026-02-06,Garrett,Sausage,Snacks,3.0,0.0,0.0,unknown
+S45,2026-02-06,Doris,Tuna,Frozen,15.0,10.0,152.0,Google Pay
+S46,2026-02-06,Nathan Sloan,Coca Cola,Bakery,0.0,0.0,0.0,Paypal
+S47,2026-02-06,name,Soap,unknown,0.0,4.0,4.0,Venmo
+S48,2026-02-06,Mgan,Water Bottle,Stationary,0.0,1.0,0.0,Apple Pay
+S49,2026-02-06,name,Deodorant,Personal Care,5.0,4.0,20.0,Venmo
+S50,2026-02-06,Miriam,Cheese,Diary,0.0,5.0,5.0,Paypal
+S51,2026-02-06,Miriam,Milk,Frozen,1.0,0.0,101.0,unknown
+S52,2026-02-06,Shelby Briggs,Cookies,unknown,1.0,3.25,3.25,Google Pay
+S53,2026-02-06,Taylor Mercer,Pepsi,Meat$Seafood,1.0,0.0,11.0,Cash
+S54,2026-07-02,Grace,Ham,Stationary,12.0,0.0,2.0,Cash
+S55,2026-07-02,Doris Wade,unknown,unknown,3.0,5.0,15.0,Cah
+S56,2026-07-02,Ashley Ax,Wine,Fruits,4.0,4.5,0.0,Cash
+S57,2026-07-02,Kayla,Cabbage,Stationary,8.0,0.0,8.0,Cash
+S58,2026-07-02,Mills,Wine,Personal Care,3.0,1.0,3.0,Debit Card
+S59,2026-07-02,name,Shampoo,Groceries,4.0,1.5,0.0,Cash
+S60,2026-07-02,name,Steak,Beverages,3.0,2.0,6.0,unknown
+S61,2026-07-02,Nathan Becker,Shampoo,Vegetable,50.0,4.5,225.0,Google Pay
+S62,2026-07-02,name,unknown,unknown,20.0,0.0,18.0,Cah
+S63,2026-07-02,Wyatt,Tea,Vegetable,6.0,4.0,27.0,Bank Transfer
+S64,2026-07-02,Wyatt,unknown,Personal Care,8.0,1.0,8.0,unknown
+S65,2026-07-02,Xander,Flour,unknown,4.0,1.0,0.0,Paypal
+S66,2026-07-02,name,Cereal,Vegetables,6.0,3.25,0.0,Apple Pay
+S67,,Garett,Bananas,Alcholic Beverage,1.0,8.0,80.0,Cah
+S68,,Ayla,Sugar,Stationery,4.0,2.0,8.0,Apple Pay
+S69,2026-07-02,Ayla,Sprite,unknown,2.0,6.0,12.0,Apple Pay
+S70,2026-07-02,Xander Whitman,Chicken,unknown,20.0,0.0,0.0,Csash
+S71,2026-07-02,Tyler,Eggs,Household,0.0,4.0,4.0,Bank Transfer
+S72,2026-07-02,Olivia Cross,Apples,Fruits,4.0,1.0,4.0,Credit Card
+S73,2026-07-02,Olivia Cross,Grapes,unknown,0.0,8.0,13.0,Debit Card
+S74,2026-07-02,Olivia Cross,unknown,Dairy,12.0,12.0,144.0,Venmo
+S75,2026-07-02,Paige Whitman,Sprite,Meat & Seafood,3.0,2.0,6.0,Credit Card
+S76,2026-07-02,Paige Whitman,unknown,Vegetables,3.0,4.0,17.0,Apple Pay
+S77,2026-07-02,Logan Arthur,Fanta,Meat$Seafood,5.0,5.0,25.0,Cash
+S78,2026-07-02,name,Tuna,Beverages,2.0,0.0,7.0,Cash
+S79,2026-07-02,Cody Tate,Bacon,Meat$Seafood,3.0,4.0,12.0,Paypal
+S80,2026-07-02,Brandon Briggs,Butter,unknown,12.0,5.0,60.0,Bank Transfer
+S81,2026-07-02,Arthur,Cheese,Groceries,6.0,1.0,6.0,Cash
+S81,2026-07-02,Arthur,Cheese,Groceries,6.0,1.0,6.0,Cash
+S82,2026-07-02,name,Batteries,Alcholic Beverage,5.0,4.0,10.0,Credit Card
+S83,2026-07-02,Doris Vaughn,unknown,Meat & Seafood,15.0,3.0,0.0,Cash
+S84,2026-07-02,Oliia,Toothpaste,Beverages,4.0,5.0,20.0,Cash
+S85,2026-07-02,Hannh Wax,Book,Vegetables,5.0,10.0,0.0,Cash
+Sr1,2026-07-02,Taylor Arthur,unknown,unknown,1.0,0.0,0.0,Venmo
+Sr2,2026-07-02,Taylor Arthur,Potatoes,Bakery,10.0,0.0,10.0,Cah
+Sr3,2026-07-02,Robert Arthur,Pasta,Meat & Seafood,50.0,1.0,0.0,Credit Card
+Sr4,2026-07-02,Lauren,Steak,Household,3.0,4.0,24.0,Bank Transfer
+Sr5,2026-07-02,Lauren,Pasta,Fruits,5.0,1.5,7.5,Bank Transfer
+Sr6,2026-07-02,Lauren,Bananas,Groceries,6.0,8.0,43.0,Paypal
+Sr7,2026-07-02,Ashley,unknown,unknown,1.0,12.0,120.0,unknown
+Sr8,2026-07-02,Chloe Lund,Pencil,Household,20.0,5.0,0.0,Apple Pay
+Sr9,2026-07-02,Brandon,Pencil,Vegetable,1.0,4.0,4.0,unknown
+Sr10,2026-07-02,Olivia Briggs,Tuna,Meat$Seafood,4.0,10.0,0.0,Cah
+Sr11,2026-07-02,Brandon Arthur,Ham,unknown,1.0,4.0,38.0,Apple Pay
+Sr12,2026-07-02,Caleb Whitman,Cheese,Frozen,4.0,6.0,24.0,Bank Transfer
+Sr13,2026-07-02,Derek,Fanta,Diary,3.0,1.5,4.5,Bank Transfer
+Sr14,2026-07-02,Smith,Beer,Personal Care,2.0,4.0,8.0,Bank Transfer
+Sr15,,Jordan Conway,Chicken,Vegetable,8.0,3.25,28.0,Pay Pal
+Sr16,,Kayla,Steak,Alcholic Beverage,1.0,10.0,100.0,Cash
+Sr17,,name,Salmon,Dairy,20.0,3.0,55.0,Venmo
+Sr18,,Ashley Dalton,Batteries,Snacks,0.0,23.0,46.0,Csash
+Sr19,2026-07-02,Ashley Dalton,Cereal,Personal Care,1.0,2.0,0.0,Paypal
+Sr20,2026-07-02,Elias Lund,Pepsi,unknown,0.0,2.0,2.0,Bank Transfer
+Sr21,2026-07-02,name,Coffee,unknown,10.0,3.0,30.0,Bank Transfer
+Sr22,2026-07-02,Bailey Whitman,Fanta,Diary,4.0,5.0,18.0,Cash
+Sr23,2026-07-02,Jordan Jasper,Pasta,Beverages,4.0,1.0,6.0,Bank Transfer
+Sr24,2026-07-02,Nathan Wade,Detergent,unknown,1.0,1.0,10.0,Paypal
+Sr25,2026-07-02,Sierra,Fanta,unknown,0.0,0.0,1.0,Cash
+Sr26,2026-07-02,Samantha,unknown,Snacks,10.0,4.0,40.0,Cash
+Sr27,2026-07-02,Grace Boone,Deodorant,Meat$Seafood,8.0,3.0,24.0,Paypal
+Sr28,2026-07-02,Grace Boone,Fanta,Personal Care,12.0,2.0,24.0,Credit Card
+Sr29,2026-07-02,Grace Boone,Water Bottle,unknown,1.0,4.0,39.0,Paypal
+Sr30,2026-07-02,Chloe Lund,Bread,Vegetables,3.0,2.0,6.0,unknown
+Sr31,2026-07-02,Chloe Lund,Napkins,Frozen,2.0,5.0,10.0,Bank Transfer
+Sr32,2026-07-02,Chloe Lund,Cookies,unknown,1.0,1.5,101.5,unknown
+Sr33,2026-07-02,Chloe Lund,Champagne,Groceries,4.0,2.0,0.0,unknown
+Sr34,2026-07-02,Shelby Briggs,Flour,Bakery,12.0,3.25,41.0,Venmo
+Sr34,2026-07-02,Shelby Briggs,Flour,Bakery,12.0,3.25,41.0,Venmo
+Sr35,2026-07-02,Jordan,unknown,Meat & Seafood,8.0,0.0,8.0,Paypal
+Sr36,2026-07-02,name,Donuts,unknown,1.0,0.0,2.0,Cash
+Sr37,2026-07-02,Nathan Sams,Beer,Groceries,20.0,0.0,0.0,Apple Pay
+Sr38,2026-07-02,Andy Ramsey,Tea,unknown,6.0,5.0,20.0,unknown
+Sr39,2026-07-02,Mills Briggs,Notebook,Meat & Seafood,4.0,3.25,13.0,Cah
+Sr40,2026-07-02,Mills Briggs,Shampoo,Dairy,12.0,2.5,30.0,Cah
+D1,2026-02-08,Ethan,Cheese,Vegetables,6.0,12.0,73.0,Bank Transfer
+D2,2026-02-08,Sierra Briggs,unknown,Beverages,2.0,0.0,0.0,Debit Card
+D2,2026-02-08,Sierra Briggs,unknown,Beverages,2.0,0.0,0.0,Debit Card
+D3,2026-02-08,Shelby,Chicken,unknown,3.0,1.0,3.0,Cash
+D4,2026-02-08,Shelby,unknown,unknown,5.0,2.0,15.0,Cah
+D5,2026-02-08,Shelby,Bread,unknown,2.0,0.0,0.0,Debit Card
+D6,2026-02-08,Mills,Book,Household,1.0,0.0,1.0,Pay Pal
+D7,2026-02-08,Mills,Eggs,Bakery,5.0,5.0,25.0,Bank Transfer
+D8,2026-02-08,name,Crackers,Bakery,1.0,10.0,0.0,Apple Pay
+D9,2026-02-08,Samantha,Pasta,Vegetables,10.0,1.5,0.0,Paypal
+D10,2026-02-08,name,Icecream,Alcholic Beverage,20.0,5.0,100.0,Debit Card
+D11,2026-02-08,name,Beer,Bakery,10.0,0.0,10.0,Paypal
+D12,2026-02-08,Caleb Lund,unknown,Bakery,2.0,3.0,6.0,Csash
+D13,2026-02-08,Caleb Lund,Redbull,unknown,4.0,0.0,0.0,unknown
+D14,2026-02-08,Caleb Lund,Napkins,Household,8.0,2.0,6.0,Cash
+D15,2026-02-08,Bush,unknown,Bakery,2.0,12.0,24.0,Cah
+D16,2026-02-08,Dustin Becker,unknown,Dairy,4.0,4.0,0.0,Cash
+D17,2026-02-08,Dustin Becker,Shampoo,Diary,10.0,5.0,50.0,Credit Card
+D18,2026-02-08,Ellie,Milk,Stationary,2.0,2.5,0.0,Bank Transfer
+D19,2026-02-08,Xander Smiths,Frozen Pizza,Personal Care,8.0,5.0,40.0,Credit Card
+D20,2026-02-08,Xander Smiths,unknown,Personal Care,3.0,0.0,103.0,Venmo
+D20,2026-02-08,Xander Smiths,unknown,Personal Care,3.0,0.0,103.0,Venmo
+D21,2026-02-08,Xander Smiths,Bananas,Beverages,12.0,4.0,49.0,Credit Card
+D22,2026-02-08,Xander Smiths,Toothpaste,Beverages,1.0,0.0,0.0,Cash
+D22,2026-02-08,Xander Smiths,Toothpaste,Beverages,1.0,0.0,0.0,Cash
+D23,2026-02-08,Garrett Sams,unknown,Meat & Seafood,8.0,3.0,24.0,Cash
+D24,2026-02-08,Garrett Sams,Toothpaste,Dairy,2.0,5.0,10.0,Cash
+D25,2026-02-08,Garrett Sams,Potatoes,Household,20.0,10.0,205.0,Cash
+D26,2026-02-08,name,Apples,unknown,20.0,0.0,0.0,Cash
+D27,2026-02-08,Logan,Sprite,Snacks,1.0,2.0,20.0,Cash
+D28,,Logan Becer,Chicken,Alcholic Beverage,4.0,5.0,0.0,Cash
+D29,,Grace Conway,Notebook,Beverages,2.0,3.25,6.5,Cash
+D30,,name,Tuna,Vegetables,1.0,1.0,4.0,Cash
+D31,,Jordan Rhodes,Frozen Pizza,Dairy,6.0,4.5,27.0,Cash
+D32,2026-02-08,name,Pencil,Alcholic Beverage,10.0,5.0,50.0,Cash
+D33,2026-02-08,Andy,Onions,Vegetable,1.0,10.0,20.0,Cash
+D34,2026-02-08,name,Shampoo,Household,0.0,1.5,0.0,Cash
+D35,2026-02-08,Cody Wae,Apples,unknown,12.0,2.5,0.0,Cash
+D36,2026-02-08,Cody,unknown,unknown,0.0,2.0,2.0,Cash
+D37,2026-02-08,Austin Rhodes,Donuts,Beverages,2.0,3.0,4.0,Cash
+D38,2026-02-08,Elias,Crackers,Meat & Seafood,1.0,0.0,2.0,Cash
+D39,2026-02-08,Jake Rhodes,Champagne,Diary,4.0,4.5,19.0,Cash
+D40,2026-02-08,name,Pepsi,Bakery,3.0,4.0,17.0,Cash
+Qh1,2026-02-09,Ashley,Tomatoes,unknown,2.0,10.0,19.0,Cash
+Qh2,2026-02-09,Robert Briggs,Fanta,Stationary,2.0,3.0,6.0,Cash
+Qh3,2026-02-09,name,Butter,unknown,6.0,5.0,30.0,Cash
+Qh4,2026-02-09,Travis Hodge,Cake,Stationary,0.0,1.0,0.0,Cash
+Qh5,2026-02-09,Kelsey Vance,Notebook,Diary,50.0,8.0,398.0,Cash
+Qh6,2026-02-09,Hannah Briggs,Napkins,Beverages,15.0,0.0,0.0,Cash
+Qh7,2026-02-09,Hannah Briggs,unknown,Snacks,2.0,0.0,0.0,Cash
+Qh8,2026-02-09,Hannah Briggs,Salt,Vegetable,2.0,12.0,24.0,Cash
+Qh9,2026-02-09,Hannah Briggs,Grapes,Stationery,2.0,4.0,8.0,Cash
+Qh10,2026-02-09,name,Orange Juice,Vegetable,15.0,4.5,0.0,Credit Card
+Qh11,2026-02-09,Spencer,Rice,unknown,1.0,2.0,25.0,Venmo
+Qh12,2026-02-09,Dustin Ramsey,Bread,Bakery,6.0,5.0,30.0,Apple Pay
+Qh13,2026-02-09,Brandon,Pencil,Dairy,1.0,2.5,2.5,Google Pay
+Qh14,2026-02-09,name,Water Bottle,unknown,1.0,3.0,30.0,Csash
+Qh15,2026-02-10,Lauren,unknown,unknown,15.0,5.0,75.0,Credit Card
+Qh16,2026-02-10,name,Yogut,Dairy,3.0,4.0,0.0,Cah
+Qh17,2026-02-10,Dustin,Beer,Stationary,5.0,1.0,5.0,Apple Pay
+Qh18,2026-02-10,Austin,unknown,unknown,10.0,3.0,32.0,Cash
+Qh19,2026-02-10,Xander Ramsey,Fanta,Groceries,10.0,1.5,115.0,Cash
+Qh20,2026-02-10,Xander Ramsey,Detergent,unknown,15.0,3.25,97.5,Csash
+Qh21,2026-02-10,name,Bacon,Fruits,3.0,0.0,3.0,unknown
+Qh22,2026-02-10,name,Notebook,Stationary,2.0,4.5,9.0,Cash
+Qh23,2026-02-10,name,Redbull,Meat & Seafood,2.0,0.0,2.0,Paypal
+Qh24,2026-02-10,name,Eggs,Vegetables,1.0,6.0,60.0,Bank Transfer
+Qh25,2026-02-11,name,unknown,Personal Care,10.0,2.0,20.0,unknown
+Qh26,2026-02-11,Garrett,Cheese,Personal Care,12.0,6.0,72.0,Credit Card
+Qh27,2026-02-11,Elias Arthur,Coca Cola,Bakery,15.0,0.0,15.0,Csash
+Qh28,2026-02-11,Nathan,Champagne,Dairy,2.0,2.5,6.0,Bank Transfer
+Qh29,2026-02-11,Elias,Potatoes,Frozen,2.0,1.0,3.0,Apple Pay
+Qh30,2026-02-11,Dustin Doris,Orange Juice,Bakery,10.0,2.5,27.0,Bank Transfer
+Qh31,2026-02-11,Spencer,Ham,Vegetable,8.0,8.0,74.0,Cash
+Qh32,2026-02-12,Samantha,Beer,Vegetables,3.0,3.0,9.0,unknown
+Qh33,2026-02-12,Travis Wax,Grapes,Alcholic Beverage,4.0,3.25,8.0,Cash
+Qh34,2026-02-12,Xander,Toothpaste,Dairy,4.0,4.0,16.0,Credit Card
+Qh35,2026-02-12,name,Soap,Fruits,6.0,5.0,35.0,Bank Transfer
+Qh36,2026-02-12,Smith Arthur,Toothpaste,Groceries,5.0,1.0,5.0,Cash
+Qh37,2026-02-12,Wyatt,Champagne,unknown,0.0,4.5,0.0,Venmo
+Qh38,2026-02-12,Robert,Pencil,Snacks,15.0,0.0,0.0,Bank Transfer
+Qh39,2026-02-12,Andy Vance,Rice,Stationary,2.0,0.0,2.0,Cah
+Qh40,2026-02-12,Xander,Beer,Diary,1.0,0.0,10.0,unknown
+Qh41,2026-02-12,name,Flour,Household,10.0,0.0,5.0,Credit Card
+Qh42,2026-02-12,Grace Hodge,Sprite,Dairy,0.0,2.5,2.5,Bank Transfer
+Qh43,2026-02-12,Grace Hodge,Pasta,Meat$Seafood,5.0,0.0,5.0,unknown
+Qh44,,name,unknown,Stationery,3.0,2.0,6.0,Apple Pay
+Qh45,,Bailey Frost,Onions,unknown,50.0,6.0,300.0,Venmo
+Qh46,,Chloe Cross,Rice,Personal Care,2.0,4.0,9.0,unknown
+Qr1,,Chloe Cross,Salt,Bakery,1.0,4.0,40.0,unknown
+Qr2,,Chloe Cross,unknown,Fruits,0.0,0.0,4.0,Debit Card
+Qr3,,Garrett Doris,Icecream,Vegetables,0.0,4.0,4.0,Paypal
+Qr4,,name,unknown,Household,1.0,1.0,10.0,unknown
+Qr5,,name,Shampoo,Bakery,8.0,2.0,19.0,unknown
+Qr6,,Derek,unknown,unknown,5.0,0.0,10.0,Apple Pay
+Qr7,,name,Water Bottle,unknown,20.0,6.0,0.0,Paypal
+Qr8,2026-02-12,Derek,Onions,Beverages,0.0,6.0,6.0,Debit Card
+Qr9,2026-02-12,Miriam Whitman,Potatoes,Personal Care,0.0,6.0,6.0,Paypal
+Qr10,2026-02-12,name,Icecream,unknown,10.0,6.0,60.0,unknown
+Qr11,2026-02-12,Olivia Pruitt,Eggs,Groceries,0.0,1.0,6.0,Bank Transfer
+Qr12,2026-02-13,Olivia Pruitt,Frozen Pizza,Beverages,5.0,0.0,3.0,Pay Pal
+Qr13,,Olivia Pruitt,Sausage,Snacks,0.0,5.0,0.0,Cash
+Qr14,2026-02-13,Marissawade,Water Bottle,Personal Care,12.0,4.0,48.0,Paypal
+Qr15,2026-02-13,Samantha,unknown,Vegetables,3.0,23.0,69.0,Cash
+Qr16,2026-02-13,Shelby,Champagne,unknown,1.0,5.0,40.0,Paypal
+Qr17,2026-02-13,name,Lettuce,Groceries,4.0,0.0,4.0,Venmo
+Qr18,2026-02-13,Smith Sloan,Yogut,Frozen,0.0,2.5,0.0,Cash
+Qr19,2026-02-13,Smith Sloan,Coca Cola,Snacks,1.0,1.0,1.0,Credit Card
+Qr20,2026-02-13,Smith Sloan,Pencil,unknown,5.0,3.25,0.0,Cash
+Qr21,,Smith Sloan,Eggs,Beverages,8.0,4.5,31.0,Cash
+Qr22,2026-02-13,Jake,Potatoes,Stationery,1.0,3.0,30.0,Bank Transfer
+Qr23,2026-02-13,name,Redbull,Fruits,1.0,0.0,1.0,Venmo
+Qr24,2026-02-13,name,Fanta,Personal Care,20.0,2.0,40.0,Paypal
+Qr25,2026-02-13,Tyler,Steak,Diary,2.0,6.0,12.0,Cash
+Qr26,2026-02-13,Jordan,Onions,Meat & Seafood,5.0,0.0,5.0,Bank Transfer
+Qr27,2026-02-13,Jordan,Batteries,Personal Care,12.0,5.0,60.0,Credit Card
+Qr28,2026-02-14,Robert,Bacon,unknown,2.0,0.0,2.0,Bank Transfer
+Qr29,2026-02-14,name,Deodorant,Frozen,50.0,8.0,400.0,unknown
+Qr30,2026-02-14,Nathan,Milk,Meat$Seafood,15.0,0.0,0.0,Credit Card
+Qr31,2026-02-14,Logan,Frozen Pizza,Personal Care,3.0,3.25,9.75,Credit Card
+Qr32,,Logan,Bananas,Beverages,1.0,4.0,40.0,Cash
+Qr33,,Logan,Cake,unknown,1.0,6.0,0.0,Bank Transfer
+Qr34,2026-02-14,Elias Holt,unknown,unknown,2.0,3.0,6.0,Paypal
+Qr35,,name,Pasta,unknown,1.0,6.0,60.0,Bank Transfer
+Qr36,,Olivia,Crackers,unknown,1.0,0.0,1.0,Csash
+Qr37,2026-02-14,Ashley Doris,Ham,Vegetable,50.0,0.0,50.0,Cash
+Qr38,2026-02-14,Ashley Doris,Butter,unknown,50.0,10.0,498.0,Cash
+Qr39,2026-02-14,Rthur Jasper,Napkins,unknown,3.0,12.0,36.0,unknown
+Qr40,2026-02-14,Rthur Jasper,Book,Beverages,20.0,23.0,920.0,Credit Card
+Qr41,2026-02-15,Rthur Jasper,Bananas,Bakery,0.0,3.25,3.25,Apple Pay
+Qr42,2026-02-15,Olivia Rhodes,Milk,Household,4.0,6.0,24.0,Cash
+Qr43,2026-02-15,Bush,Soap,Personal Care,10.0,2.5,30.0,unknown
+Qr44,2026-02-15,Hannah,Sausage,Groceries,50.0,1.0,0.0,Cash
+Qr45,2026-02-15,Robert,Toothpaste,Beverages,2.0,6.0,12.0,Cah
+Qr46,2026-02-15,name,Rice,Diary,5.0,2.0,10.0,unknown
+Qr47,2026-02-15,Marissa,Deodorant,Dairy,50.0,5.0,0.0,Bank Transfer
+Qr48,2026-02-16,Arthur Pruitt,Rice,Meat & Seafood,0.0,0.0,11.0,Paypal
+Qr49,2026-02-16,Arthur,Pepsi,Vegetable,0.0,3.25,3.25,unknown
+Qr50,2026-02-16,Arthur,Champagne,Stationery,10.0,23.0,230.0,unknown
+Qr51,2026-02-16,name,Eggs,Meat & Seafood,0.0,0.0,0.0,unknown
+Qr52,2026-02-16,Bush Sloan,Rice,Snacks,3.0,6.0,0.0,Credit Card
+Qr53,2026-02-16,Kelsey Ramsey,Coca Cola,unknown,3.0,2.5,6.5,unknown
+Qr54,2026-02-16,Tyler Pruitt,Detergent,unknown,0.0,5.0,0.0,Debit Card
+Qr55,2026-02-17,Ethan Rhodes,Bread,Vegetable,1.0,2.0,102.0,Credit Card
+Qr56,,Megan Doris,Eggs,Meat$Seafood,1.0,8.0,8.0,Bank Transfer
+Qr57,,Megan Doris,Batteries,Alcholic Beverage,12.0,0.0,0.0,Paypal
+Qr58,,Megan Doris,Crackers,Stationary,4.0,1.0,0.0,Cash
+Qr59,2026-02-17,Megan Doris,Pencil,Vegetables,0.0,3.0,8.0,unknown
+Qr60,2026-02-17,Garrett Frost,Wine,Beverages,3.0,8.0,0.0,Debit Card
+Qr61,2026-02-17,Brandon,Beer,Stationery,4.0,4.0,21.0,Venmo
+Qr62,2026-02-17,name,Lettuce,unknown,15.0,23.0,345.0,Debit Card
+Qr63,2026-02-17,Miriam Smiths,Bananas,Groceries,2.0,4.0,0.0,Credit Card
+Qr64,2026-02-17,Miriam Smiths,Sausage,Meat & Seafood,50.0,0.0,50.0,Venmo
+Qr65,2026-02-17,Miriam Smiths,unknown,Diary,20.0,5.0,100.0,Cash
+Qr66,2026-02-17,Miriam Smiths,Onions,Frozen,1.0,3.0,130.0,Venmo
+Qr67,2026-02-08,Olivia Ramsey,Coca Cola,Snacks,3.0,3.25,4.75,Bank Transfer
+Qr68,2026-02-08,name,Onions,unknown,1.0,0.0,8.0,Pay Pal
+Qr69,2026-02-08,Hannah,Ham,Dairy,12.0,2.5,30.0,Paypal
+Qr70,2026-02-08,Chloe,Butter,Stationery,8.0,3.0,24.0,Credit Card
+Qr71,2026-02-08,Chloe,Sausage,Diary,1.0,2.0,20.0,Cash
+Qr72,2026-02-08,Chloe,Bacon,Personal Care,15.0,2.0,0.0,Venmo
+Qr73,2026-02-08,name,Cheese,Stationary,0.0,4.5,0.0,Paypal
+Qr74,2026-02-18,Kelsey,Chicken,Groceries,5.0,4.0,20.0,Cash
+Qr75,2026-02-18,name,Toothpaste,Stationary,12.0,12.0,144.0,Debit Card
+Qr76,2026-02-19,Elias Mercer,Tuna,Snacks,0.0,12.0,0.0,Cah
+Qr77,2026-02-19,name,Sprite,Stationary,1.0,10.0,100.0,unknown
+Qr77,2026-02-19,name,Sprite,Stationary,1.0,10.0,100.0,unknown
+Qr78,2026-02-19,Tyler Frost,unknown,Vegetable,12.0,12.0,0.0,Debit Card
+Qr79,2026-02-19,Tyler Frost,Soap,unknown,12.0,1.5,0.0,unknown
+Qr80,2026-02-19,Tyler Frost,Deodorant,Meat & Seafood,4.0,4.0,0.0,unknown
+Qr80,2026-02-19,Tyler Frost,Deodorant,Meat & Seafood,4.0,4.0,0.0,unknown
+Qr81,2026-02-19,Tyler Frost,Ham,unknown,1.0,0.0,10.0,Apple Pay
+Qr82,2026-02-19,Cody,Apples,unknown,4.0,5.0,120.0,Cah
+Qr83,2026-02-20,Nathan Conway,Tomatoes,Groceries,0.0,1.0,2.0,Apple Pay
+Qr84,2026-02-20,Arthur,Cereal,Bakery,5.0,23.0,115.0,Venmo
+Qr85,2026-02-20,Andy Holt,Wine,Stationery,3.0,3.0,9.0,Credit Card
+O1,2026-02-21,Andy Holt,Redbull,Fruits,1.0,10.0,100.0,unknown
+O2,,Andy Holt,Eggs,Household,0.0,4.0,4.0,unknown
+O2,,Andy Holt,Eggs,Household,0.0,4.0,4.0,unknown
+O3,,Shelby Hodge,Tuna,unknown,6.0,4.0,24.0,Credit Card
+O4,,name,Frozen Pizza,Personal Care,6.0,3.0,18.0,unknown
+O5,2026-02-21,name,Rice,Frozen,0.0,3.0,0.0,unknown
+O6,2026-02-21,Grace,Eggs,Beverages,15.0,6.0,0.0,Apple Pay
+O7,2026-02-21,Ethan Pruitt,Cereal,Bakery,0.0,4.5,4.5,Pay Pal
+O8,2026-02-21,Ethan Pruitt,Pencil,unknown,8.0,10.0,80.0,Paypal
+O9,2026-02-21,Ethan Pruitt,Coffee,Dairy,10.0,5.0,50.0,unknown
+O10,2026-02-21,Mills,Cheese,Stationery,10.0,2.0,20.0,Credit Card
+O11,2026-02-21,Mills,Yogut,Frozen,0.0,1.0,1.0,Credit Card
+O12,2026-02-21,Mills,Potatoes,Diary,0.0,5.0,5.0,Venmo
+O13,2026-02-21,Elias Wade,Ham,Vegetable,0.0,1.0,0.0,Csash
+O14,2026-02-21,Ellie,unknown,Fruits,10.0,1.0,10.0,Paypal
+O15,2026-02-21,Ellie,Chicken,Stationary,0.0,4.5,5.0,Apple Pay
+O16,2026-02-22,Arthur Holt,Sausage,Alcholic Beverage,50.0,3.0,150.0,Cash
+O17,2026-02-22,Ethan Pruitt,Detergent,unknown,12.0,8.0,96.0,Credit Card
+O17,2026-02-22,Ethan Pruitt,Detergent,unknown,12.0,8.0,96.0,Credit Card
+O18,2026-02-22,Ethan Pruitt,Beer,Personal Care,4.0,23.0,92.0,Google Pay
+O19,2026-02-22,Ethan Pruitt,Sausage,unknown,3.0,5.0,15.0,unknown
+O20,2026-02-22,Derek,Onions,unknown,1.0,5.0,55.0,Google Pay
+O21,2026-02-23,Robert,Salt,Personal Care,4.0,4.0,16.0,Apple Pay
+O22,2026-02-23,Robert,Coffee,Bakery,15.0,1.5,22.5,Venmo
+O23,2026-02-23,Robert,unknown,Personal Care,3.0,4.5,14.5,unknown
+O24,2026-02-23,Smith,Tuna,Dairy,1.0,4.0,4.0,unknown
+O25,2026-02-23,Miriam Briggs,Sausage,Beverages,1.0,5.0,5.0,Bank Transfer
+O26,2026-02-23,Miriam Briggs,Eggs,Diary,50.0,1.0,50.0,Venmo
+O27,2026-02-23,Miriam Briggs,Beer,unknown,6.0,4.5,27.0,Debit Card
+O28,2026-02-24,name,Beer,Diary,15.0,0.0,30.0,Debit Card
+O29,2026-02-24,Lauren Mercer,Soap,unknown,1.0,1.0,1.0,Cash
+O30,2026-02-24,Nathan,Bread,Groceries,1.0,1.0,1.0,Cash
+O31,2026-02-24,Ethan Doris,Pepsi,Household,3.0,4.0,0.0,Paypal
+O32,2026-02-25,Ethan Doris,Grapes,Stationary,3.0,0.0,3.0,unknown
+O33,2026-02-25,Ethan Doris,Notebook,Frozen,2.0,8.0,16.0,unknown
+O34,2026-02-27,Samantha Pruitt,Tuna,Diary,50.0,2.0,100.0,unknown
+O35,2026-02-27,Samantha Pruitt,Eggs,Household,6.0,0.0,6.0,Cash
+O36,2026-02-27,Samantha Pruitt,Beer,unknown,20.0,0.0,21.0,unknown
+O37,2026-02-27,Samantha Pruitt,Tea,Alcholic Beverage,3.0,2.5,7.5,Apple Pay
+O38,2026-02-27,Doris,Lettuce,Personal Care,20.0,4.0,80.0,Csash
+O39,2026-02-28,Xander Reyes,Yogut,Beverages,2.0,1.0,2.0,Apple Pay
+O40,2026-02-28,name,Potatoes,unknown,2.0,8.0,16.0,Bank Transfer
+O41,2026-02-28,Tyler,unknown,Household,4.0,3.25,0.0,Credit Card
+O42,2026-02-28,Paige Briggs,Sausage,Personal Care,2.0,1.5,3.0,Credit Card
+O43,2026-02-28,Travis Sams,Rice,unknown,1.0,0.0,0.0,Paypal
+O44,2026-02-28,name,unknown,Fruits,1.0,3.25,13.25,unknown
