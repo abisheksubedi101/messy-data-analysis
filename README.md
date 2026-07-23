@@ -9,8 +9,8 @@ This project analyzes sales data to identify trends, top-performing products, an
 ## Business Problem
 The company wants to understand:
 - Which products generate the most revenue?
-- Which regions perform best?
-- How do sales change over time?
+- What are the top ten sold products?
+- Which day of the month have generated most revenue?
 
 ---
 
@@ -79,4 +79,11 @@ The company wants to understand:
   ---
 
   ## Key insights
-  -
+  - Unknown is most revenue generatinga and most sold products.
+  - 14th day of the month is the most revenue generating day.
+
+  ---
+
+  ## Repository Structure
+  - 
+  
