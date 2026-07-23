@@ -1,10 +1,11 @@
 # messy-data-analysis
+
+--
+
 ## Project Overview
 This project analyzes sales data to identify trends, top-performing products, and regional performance. The goal is to provide insights that can help improve business decisions.
 
 ---
-## Project_Structure and workflow
-
 
 ## Business Problem
 The company wants to understand:
@@ -48,18 +49,11 @@ The company wants to understand:
 
 ---
 
-
-
----
-
 ## Dashboard
-
 <img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/650e5ae8-73f0-48ac-92a4-a361e75b60ee" />
 
 ---
 
-
----
 
 ## Business Recommendations
 - Increase inventory for high-performing products.
