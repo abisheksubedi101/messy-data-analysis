@@ -4,7 +4,7 @@ This project analyzes sales data to identify trends, top-performing products, an
 
 ---
 ## Project_Structure and workflow
-1.
+
 
 ## Business Problem
 The company wants to understand:
@@ -85,5 +85,11 @@ The company wants to understand:
   ---
 
   ## Repository Structure
-  - 
+  - messysupermarket_sales(1).csv
+  - cleaned_supermarket_sales.csv
+  - my25thproject.ipynb
+  - sql_queries
+   README.md
+
+
   
